@@ -9,17 +9,14 @@ I thrive at the intersection of creativity and technology, where I enjoy buildin
 🔧 My Technical Skills:
 Frontend Development: Skilled in HTML, CSS, JavaScript, and frameworks like React to build user-friendly and visually appealing interfaces.
 Backend Development: Experienced in building robust server-side applications with Node.js, Express, and MongoDB.
-Other Tools & Platforms: Firebase, Git, Chrome Extension APIs, and more.
+Other Tools & Platforms: Firebase, Git, Zegocloud, and more.
 
 🌱 What I’m Currently Exploring:
 Diving deeper into full-stack development to build seamless, end-to-end web applications.
 Exploring user behavior analytics to design more intuitive tools and experiences.
 
-📫 Let’s Connect:
-I’d love to collaborate, share ideas, or just have a chat! You can reach me on LinkedIn or Email.
 
-
-## 🔧 Tech Stack  
+## 🖥️ Tech Stack 
 
 ### **Languages**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
@@ -45,7 +42,6 @@ I’d love to collaborate, share ideas, or just have a chat! You can reach me on
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=utkarshrastogi121&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarshrastogi121&theme=radical)
 
 
 ## 📫 Let’s Connect:
