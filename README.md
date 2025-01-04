@@ -6,11 +6,6 @@ I’m a technology enthusiast with a deep passion for creating solutions that ma
 🎯 Who I Am:
 I thrive at the intersection of creativity and technology, where I enjoy building tools that improve productivity, enhance user experiences, and tackle everyday problems. I’m committed to continuous learning and enjoy experimenting with cutting-edge technologies to refine my skills.
 
-🔧 My Technical Skills:
-Frontend Development: Skilled in HTML, CSS, JavaScript, and frameworks like React to build user-friendly and visually appealing interfaces.
-Backend Development: Experienced in building robust server-side applications with Node.js, Express, and MongoDB.
-Other Tools & Platforms: Firebase, Git, Zegocloud, and more.
-
 🌱 What I’m Currently Exploring:
 Diving deeper into full-stack development to build seamless, end-to-end web applications.
 Exploring user behavior analytics to design more intuitive tools and experiences.
