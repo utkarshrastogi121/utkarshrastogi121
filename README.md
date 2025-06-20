@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats
 
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarshrastogi121&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshrastogi121&layout=compact&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=utkarshrastogi121&theme=radical&hide_border=true)  
+![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarshrastogi121&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshrastogi121&layout=compact&theme=radical) 
 
 ---
 
