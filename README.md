@@ -12,8 +12,11 @@
 
 ## 📊 GitHub Stats
 
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarshrastogi121&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshrastogi121&layout=compact&theme=radical)
+![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarshrastogi121&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshrastogi121&layout=compact&theme=radical)
+
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarshrastogi121&theme=radical)
 
 ---
 
