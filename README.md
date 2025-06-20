@@ -1,8 +1,6 @@
-<h1 align="center">Utkarsh Rastogi</h1>
+<h1 align="center">👋 Hi, I’m Utkarsh!</h1>
 
-## 👋 Hi, I’m Utkarsh!
-
-Fullstack Web developer passionate about building cool, functional apps and always learning something new.
+<h3 align="center">Full-stack developer crafting intuitive web apps and exploring new tech every day</h3>
 
 ---
 
@@ -21,9 +19,9 @@ Fullstack Web developer passionate about building cool, functional apps and alwa
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/utkarshrastogi121)  
-- [Instagram](https://www.instagram.com/utkarsh_rastogi.121)  
-- [Email](mailto:utkarsh.2023ug1077@iiitranchi.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshrastogi121) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utkarsh_rastogi.121) 
+[![Email](https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarsh.2023ug1077@iiitranchi.ac.in)
 
 ---
 
