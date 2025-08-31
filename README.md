@@ -14,7 +14,7 @@
 ---
 
 ## 📊 GitHub Stats
-  <img src="https://github-profile-trophy.vercel.app/?username=utkarshrastogi121&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=utkarshrastogi121&theme=algolia&title=MultiLanguage,Stars,Commits,Followers,Repositories,PullRequest,Issues,Experience" alt="GitHub Trophies">
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utkarshrastogi121&show_icons=true&theme=tokyonight" width="48%" />
