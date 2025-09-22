@@ -36,4 +36,4 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=utkarshrastogi121&label=Profile%20views&color=0e75b6&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=utkarshrastogi121&style=for-the-badge&color=blue&label=VISITORS)
