@@ -24,7 +24,7 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarshrastogi121&theme=radical)
+![snake gif](https://github.com/utkarshrastogi121/utkarshrastogi121/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
