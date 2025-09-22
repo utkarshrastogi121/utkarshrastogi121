@@ -24,8 +24,7 @@
 
 ---
 
-![snake gif](https://github.com/utkarshrastogi121/utkarshrastogi121/blob/output/github-contribution-grid-snake.svg)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarshrastogi121&theme=radical)
 ---
 
 ## 📫 Let’s Connect
