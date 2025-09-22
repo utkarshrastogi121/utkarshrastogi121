@@ -25,6 +25,9 @@
 ---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarshrastogi121&theme=radical)
+
+![Skill Graph](https://github-readme-stats.vercel.app/api?username=utkarshrastogi121&show_icons=true&theme=radical)
+
 ---
 
 ## 📫 Let’s Connect
