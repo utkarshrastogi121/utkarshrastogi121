@@ -12,13 +12,6 @@
 
 
 
----
-
-## 📊 GitHub Activity
-
-## 🐍 Contribution Activity
-![snake](https://raw.githubusercontent.com/utkarshrastogi121/utkarshrastogi121/output/github-contribution-grid-snake.svg)
-
 
 ---
 
