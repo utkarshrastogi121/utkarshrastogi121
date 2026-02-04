@@ -14,13 +14,12 @@
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-profile-trophy.vercel.app/?username=utkarshrastogi121&theme=algolia&title=MultiLanguage,Stars,Commits,Followers,Repositories,PullRequest,Issues,Experience" alt="GitHub Trophies">
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshrastogi121&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshrastogi121&theme=tokyonight" width="48%" />
-</p>
+## 📊 GitHub Activity
+
+![Metrics](https://metrics.lecoq.io/utkarshrastogi121?template=classic&languages=1&activity=1&achievements=1)
+
+## 💻 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=utkarshrastogi121&show_icons=true&theme=react)
 
 ---
 
