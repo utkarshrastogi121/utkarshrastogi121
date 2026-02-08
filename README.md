@@ -14,9 +14,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=utkarshrastogi121&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarshrastogi121&show_icons=true&theme=tokyonight)
 
-![Metrics](https://metrics.lecoq.io/utkarshrastogi121?template=classic&languages=1&activity=1&community=1&achievements=1&stars=1&repositories=1&config.timezone=Asia/Kolkata)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshrastogi121&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -25,14 +25,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=utkarshrastogi121&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/utkarshrastogi121?template=classic&languages=1&activity=1&community=1&repositories=1&stars=1&achievements=1&config.timezone=Asia/Kolkata"/>
 
 </div>
 
