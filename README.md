@@ -12,29 +12,29 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
-<table align="center">
-<tr>
-<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=utkarshrastogi121&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarshrastogi121&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshrastogi121&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-</td>
-<td width="50%">
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshrastogi121&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-</td>
-</tr>
-</table>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=utkarshrastogi121&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=utkarshrastogi121&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/utkarshrastogi121?template=classic&languages=1&activity=1&community=1&repositories=1&stars=1&achievements=1&config.timezone=Asia/Kolkata" />
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/utkarshrastogi121?template=classic&languages=1&activity=1&community=1&repositories=1&stars=1&achievements=1&config.timezone=Asia/Kolkata"/>
+
+</div>
 
 
 ---
